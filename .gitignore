@@ -60,3 +60,11 @@ Temporary Items
 
 # GMRT build directory
 Build
+
+.vs/
+*.user
+*.userprefs
+obj/
+bin/
+output/
+*/cache/
